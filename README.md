@@ -1,6 +1,10 @@
 # Enem & Inteligência Artificial
 ## Implementando algoritmo para classificação do assunto das questões
 
+<p align="center">
+  <img src="https://github.com/jaumpedro214/enem-nlp-classification/blob/main/imgs/enemia.png" width="1000" title="hover text">
+</p>
+
 Repositório com implementação de um classificador do assunto de questões do Enem (Exame Nacional do Ensino Médio) a partir do seu texto.
 
 
